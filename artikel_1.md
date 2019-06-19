@@ -1,19 +1,6 @@
 # Mijn HTML en CSS is een chaos
 In deze 3 artikelen leg ik uit hoe ik structuur heb leren aanbrengen in mijn websites. Ik leg dit uit door belangrijke leermomenten uit de minor uit te lichten. Het eerste artikel gaat over HTML
 
-
-<details><summary>CLICK ME</summary>
-<p>
-
-#### yes, even hidden code blocks!
-
-```python
-print("hello world!")
-```
-
-</p>
-</details>
-
 #### Help!
 Voor dat ik begon aan de hva minor web-dev in februari van 2019 had ik nog nooit een regel HTML geschreven. Ik wist hoe het er uit zag maar wat er stond en waarom het er stond had ik geen idee van. Na 3 weken pielen zag mijn eerste site er zo uit. Er zat totaal geen logica in en niks wou op de plek gaan staan waar ik het wou hebben. Voor elke verandering maakte ik een nieuwe css selector en er staan een hele hoop dubbele stukken css code om er maar voor te zorgen dat alles consistent bleef. Het werkte, maar eigenlijk niet.
 
@@ -63,20 +50,20 @@ Volgens mij gaat de structuur in mijn sites al aardig de goede kant op. Als ik b
 
 <details> <summary>HTML SNIPPET</summary>
 	
-```<body>		
-        <nav>
-			<h3>MENU</h3>
-			<a href="#platters">Platters</a>
-			<a href="#eggs">Eggs</a>
-            <button>Day / Night</button>
-		</nav>
-		<main>
-		   <section class="card">
-               <h3>smoked fish</h3>
-               <p><em>Serves 3 - 4 people</em> with cream cheese, onion, tomato, capers &amp; new potato salad and Russ 									&amp; daughters bread basket</p>
-               <span>80</span>
-		   </section>
-		</main>
+```<body>
+	<nav>
+		<h3>MENU</h3>
+		<a href="#platters">Platters</a>
+		<a href="#eggs">Eggs</a>
+		<button>Day / Night</button>
+	</nav>
+	<main>
+	  <section class="card">
+			<h3>smoked fish</h3>
+			<p><em>Serves 3 - 4 people</em> with cream cheese, onion, tomato, capers &amp; new potato salad and Russ &amp; daughters bread basket</p>
+			<span>80</span>
+		</section>
+	</main>
 </body>
 ```
 
