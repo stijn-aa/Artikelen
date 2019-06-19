@@ -1,4 +1,4 @@
-# Mijn HTML en CSS is een chaos
+# Mijn HTML en CSS zijn chaos
 In deze 3 artikelen leg ik uit hoe ik structuur heb leren aanbrengen in mijn websites. Ik leg dit uit door belangrijke leermomenten uit de minor uit te lichten. Het eerste artikel gaat over HTML
 
 #### Help!
