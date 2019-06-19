@@ -6,7 +6,8 @@ Voor dat ik begon aan de hva minor web-dev in februari van 2019 had ik nog nooit
 
 <details> <summary>HTML SNIPPET</summary>
 	
-```<div data-grid="grid">
+```
+<div data-grid="grid">
 		<div data-bars="bar1">
 		</div>
 		<header>
@@ -50,7 +51,8 @@ Volgens mij gaat de structuur in mijn sites al aardig de goede kant op. Als ik b
 
 <details> <summary>HTML SNIPPET</summary>
 	
-```<body>
+```
+<body>
 	<nav>
 		<h3>MENU</h3>
 		<a href="#platters">Platters</a>
