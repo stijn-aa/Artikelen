@@ -5,8 +5,7 @@ In deze 3 artikelen leg ik uit hoe ik structuur heb leren aanbrengen in mijn web
 Voor dat ik begon aan de hva minor web-dev in februari van 2019 had ik nog nooit een regel HTML geschreven. Ik wist hoe het er uit zag maar wat er stond en waarom het er stond had ik geen idee van. Na 3 weken pielen zag mijn eerste site er zo uit. Er zat totaal geen logica in en niks wou op de plek gaan staan waar ik het wou hebben. Voor elke verandering maakte ik een nieuwe css selector en er staan een hele hoop dubbele stukken css code om er maar voor te zorgen dat alles consistent bleef. Het werkte, maar eigenlijk niet.
 
 <details> <summary>HTML SNIPPET</summary>
-```
-<div data-grid="grid">
+```<div data-grid="grid">
 		<div data-bars="bar1">
 		</div>
 		<header>
@@ -27,8 +26,7 @@ Voor dat ik begon aan de hva minor web-dev in februari van 2019 had ik nog nooit
 					</div>
 				</div>
 			</article>
-		</main>
-```
+		</main>```
 </details>
 
 <img src="https://i.gyazo.com/1e93783ee2d566ed42b35410d9999e19.png" width=900px></img>
